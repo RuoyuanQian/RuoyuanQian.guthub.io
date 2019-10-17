@@ -17,6 +17,6 @@ I often use [google](google.com) to do data science
 
 # add images
 
-here's my cat 
+here's my computer!
 
 ![](aa.jpg)
